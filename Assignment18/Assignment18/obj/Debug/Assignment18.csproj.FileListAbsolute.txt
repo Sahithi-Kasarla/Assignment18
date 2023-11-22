@@ -1,0 +1,7 @@
+C:\Users\Dell\source\Day13\Assignment18\Assignment18\bin\Debug\Assignment18.exe.config
+C:\Users\Dell\source\Day13\Assignment18\Assignment18\bin\Debug\Assignment18.exe
+C:\Users\Dell\source\Day13\Assignment18\Assignment18\bin\Debug\Assignment18.pdb
+C:\Users\Dell\source\Day13\Assignment18\Assignment18\obj\Debug\Assignment18.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day13\Assignment18\Assignment18\obj\Debug\Assignment18.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day13\Assignment18\Assignment18\obj\Debug\Assignment18.exe
+C:\Users\Dell\source\Day13\Assignment18\Assignment18\obj\Debug\Assignment18.pdb
